@@ -16,6 +16,7 @@ Special made for a Jetson Nano see [Q-engineering deep learning examples](https:
 
 ------------
 
+
 ## Benchmark.
 | Model  | Jetson Nano 2015 MHz | Jetson Nano 1479 MHz | RPi 4 64-OS 1950 MHz | RPi 4 64-OS 1500 MHz |
 | ------------- | :------------: | :-------------: | :-------------:  | :-------------: |
