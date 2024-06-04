@@ -1,9 +1,4 @@
 #include "TMtCNN.h"
-//
-// Created by Lonqi on 2017/11/18.
-//
-// Modified by Q-engineering 2020/12/28
-//
 //----------------------------------------------------------------------------------------
 bool cmpScore(Bbox lsh, Bbox rsh) {
 	return (lsh.score < rsh.score);
