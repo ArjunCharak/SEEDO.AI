@@ -12,13 +12,7 @@
 #include <map>
 
 //----------------------------------------------------------------------------------------
-//
-// Created by markson zhang
-//sx
-// Edited by Xinghao Chen 2020/7/27
-//
-// Modified by Q-engineering 2020/12/28
-//
+// Creators: Arjun Charak, Aditya Raina
 //----------------------------------------------------------------------------------------
 // Build defines
 // comment them to turn a function off
